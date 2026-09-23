@@ -18,4 +18,8 @@ Python 3.12.2
 
 ## PARTE 1
 
- Variaveis de entrada e saida ex01.py |  Pedir nome e idade ex01.py | Soma de dois numero ex02.py | Calculo da área de um círculo ex03.py | Transfomar Celcius em Fahrenheit ex04.py | Calcular valor total de quantidade de produtos ex05.y
+ Variaveis de entrada e saida |  Pedir nome e idade ex01.py | Soma de dois numero ex02.py | Calculo da área de um círculo ex03.py | Transfomar Celcius em Fahrenheit ex04.py | Calcular valor total de quantidade de produtos ex05.py
+
+## PARTE 2
+
+Condicionais | Informa se o numero é impar o par ex06.py | Informar qual numero é maior ex07.py | Informar se o numero é positivo, negativo ou zero ex08.py | Calcular média e dize se esta aprovado, reprovado ou em recuperação ex09.py | Informar se a idade pode votar ou não ex10.py
