@@ -31,3 +31,7 @@ Repetção com While | contar de 1 a 10 ex11.py | Ir digitando numero quando bot
 ## PARTE 4
 
 Repetição com for | contar de 1 à 20 ex16.py | Contar de 2 à 20 apenas os numeros pares ex17.py | Somar os numeros de 1 a 100 ex18.py | Informar um numero e fatorar ele ex19.py | Contar de 10 à 1 e aparece fim ex20.py
+
+## PARTE 5
+
+Listas | Printa os numeros da lista ex21.py | Somar os numeros da lista ex22.py | Printa o maior da lista ex23.py | Printar a quantidade de numeros maiores de 10 ex24.py | Printar os numeros da lista de tras para frente ex25.py
