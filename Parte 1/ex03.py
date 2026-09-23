@@ -1,4 +1,4 @@
-raio = int(input("Digite o raio do círculo: "))
+raio = float(input("Digite o raio do círculo: "))
 
 raioquadrado = raio * raio
 
