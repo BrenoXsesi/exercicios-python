@@ -18,4 +18,4 @@ Python 3.12.2
 
 ## PARTE 1
 
- Variaveis de entrada e saida ex01.py |  Soma de dois numeros ex02.py |
+ Variaveis de entrada e saida ex01.py |  Pedir nome e idade ex01.py | Soma de dois numero ex02.py | Calculo da área de um círculo ex03.py | Transfomar Celcius em Fahrenheit ex04.py | Calcular valor total de quantidade de produtos ex05.y
