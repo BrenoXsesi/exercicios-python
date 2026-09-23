@@ -27,3 +27,7 @@ Condicionais | Informa se o numero é impar o par ex06.py | Informar qual numero
 ## PARTE 3
 
 Repetção com While | contar de 1 a 10 ex11.py | Ir digitando numero quando bota zero soma tudo ex12.py | Acesso com a senha correta ex13.py | Fazer a tabuada do numero informado ex14.py | Ir colocando numeros quando pedir para parar aparece quantos numeros positivos foram digitados ex15.py
+
+## PARTE 4
+
+Repetição com for | contar de 1 à 20 ex16.py | Contar de 2 à 20 apenas os numeros pares ex17.py | Somar os numeros de 1 a 100 ex18.py | Informar um numero e fatorar ele ex19.py | Contar de 10 à 1 e aparece fim ex20.py
