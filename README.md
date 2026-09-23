@@ -34,4 +34,4 @@ Repetição com for | contar de 1 à 20 ex16.py | Contar de 2 à 20 apenas os nu
 
 ## PARTE 5
 
-Listas | Printa os numeros da lista ex21.py | Somar os numeros da lista ex22.py | Printa o maior da lista ex23.py | Printar a quantidade de numeros maiores de 10 ex24.py | Printar os numeros da lista de tras para frente ex25.py
+### Listas | Printa os numeros da lista ex21.py | Somar os numeros da lista ex22.py | Printa o maior da lista ex23.py | Printar a quantidade de numeros maiores de 10 ex24.py | Printar os numeros da lista de tras para frente ex25.py
