@@ -8,4 +8,4 @@
 
 ##Como Executar: Abra o terminal e digite "Python .py" Exemplo: "Python ex01.py"
 
-##PARTE 1: Variaveis de entrada e saida ex01.py |  
+##PARTE 1: Variaveis de entrada e saida ex01.py |  Soma de dois numeros ex02.py |
